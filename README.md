@@ -28,8 +28,8 @@ To explore the analysis and visualizations, navigate to the respective directori
 - `Data/` includes the dataset samples used in the analysis.
 - `Dashboards/` houses the interactive dashboard files.
 
-## Future Work
-The predictive models and dashboards will be continually refined to enhance forecasting capabilities and user experience.
+## Author
+Rishabh Bansal
 
 ## Acknowledgements
 Special thanks to the faculty advisor and project sponsor for their invaluable guidance and support throughout this project.
