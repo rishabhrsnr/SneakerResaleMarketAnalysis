@@ -22,11 +22,6 @@ This repository contains a detailed analysis and predictive modeling of the snea
 ## Results
 The project succeeded in creating predictive models with high accuracy, contributing valuable foresight into the sneaker resale market. The interactive dashboards developed as part of this study allow users to visualize and understand the nuanced trends and patterns within the market.
 
-## Usage
-To explore the analysis and visualizations, navigate to the respective directories within this repository:
-- `Models/` contains the predictive models and scripts.
-- `Data/` includes the dataset samples used in the analysis.
-- `Dashboards/` houses the interactive dashboard files.
 
 ## Author
 Rishabh Bansal
